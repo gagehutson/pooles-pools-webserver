@@ -10,7 +10,7 @@ A fully functional mock business website for a pool service company. Includes lo
 - Live deployment at [poolespools.gagespace.com](http://poolespools.gagespace.com)
 
 ## Tech Stack
-- Linux OS
+- Linux Server Host OS
 - PHP / MySQL
 - Apache Server
 - Bootstrap 4
